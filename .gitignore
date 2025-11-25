@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.venv
+data/raw/
+data/interim/
+data/processed/osm/
+notebooks/
+src/
+config/
+*.parquet
+*.zip
+*.csv
